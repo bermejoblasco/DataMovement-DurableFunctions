@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DataTransferDF/v15/Server/sqlite3
+/.vs/DataTransferDF/v15
+/DTDurableFunction/Properties/PublishProfiles
+/.vs/config
