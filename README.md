@@ -10,7 +10,7 @@ To run this sample:
 3. Clone the repo. Opne it in VS2017.
 4. In Blob origin Blob Storage, create a Queue wiht name datatransfer.
 5. Create an [Azure Function App](https://docs.microsoft.com/en-US/azure/azure-functions/functions-create-first-azure-function)
-6. Add/Modify AppSettings:
+6. Add/Modify AppSettings
 6.1 "AzureWebJobsStorage" --> Add Origin Blob Storage connectionstring
 6.2 "AzureWebJobsStorage" -->  Add Origin Blob Storage connectionstring
 6.3 "StorageDestination" --> Add Destination Blob Storage connectionstring
